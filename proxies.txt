@@ -7,3 +7,12 @@ cdn-b100.xn--b6gac.eu.org
 cdn.anycast.eu.org
 proxyip.multacom.fxxk.dedyn.io
 proxyip.vultr.fxxk.dedyn.io
+104.25.237.112
+104.16.185.93	
+104.16.157.233	
+104.25.209.217
+104.19.162.78
+104.19.240.214
+104.23.132.201
+104.22.61.8
+159.65.138.10
